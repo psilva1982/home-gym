@@ -39,7 +39,7 @@ This app connects to an external API to store all the data. The API repository i
 🚀 How to Run the Project
 
 Clone the repository:
-
+```
 git clone https://github.com/psilva1982/home-gym.git
 cd home-gym
 
@@ -54,7 +54,7 @@ yarn install
 Start the app:
 
 npx expo start
-
+```
 Scan the QR Code with Expo Go on your mobile device 📱
 
 Now you’re all set to track your workouts and stay consistent! 💪🔥
