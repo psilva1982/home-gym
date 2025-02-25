@@ -26,7 +26,7 @@ JWT + Refresh Token (to keep everything secure 🔐)
 
 ### 🎨 Design
 
-Want to see how the app looks before testing? Check out the Figma design! 👀🎨
+Want to see how the app looks before testing? 👀🎨
 
 ![docs/screens.png](docs/screens.png)
 
